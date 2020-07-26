@@ -1,34 +1,5 @@
 | Index | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
-| 26 | [QAQ](https://codeforces.com/problemset/problem/894/A) | 800 |  |
-| 27 | [Little C Loves 3 I](https://codeforces.com/problemset/problem/1047/A) | 800 |  |
-| 28 | [Sasha and Sticks](https://codeforces.com/problemset/problem/832/A) | 800 |  |
-| 29 | [Equation](https://codeforces.com/problemset/problem/1269/A) | 800 |  |
-| 30 | [Keanu Reeves](https://codeforces.com/problemset/problem/1189/A) | 800 |  |
-| 31 | [Equality](https://codeforces.com/problemset/problem/1038/A) | 800 |  |
-| 32 | [Changing Volume](https://codeforces.com/problemset/problem/1255/A) | 800 |  |
-| 33 | [Friends Meeting](https://codeforces.com/problemset/problem/931/A) | 800 |  |
-| 34 | [Love Triangle](https://codeforces.com/problemset/problem/939/A) | 800 |  |
-| 35 | [Arpa and a research in Mexican wave](https://codeforces.com/problemset/problem/851/A) | 800 |  |
-| 36 | [Stones](https://codeforces.com/problemset/problem/1236/A) | 800 |  |
-| 37 | [Compote](https://codeforces.com/problemset/problem/746/A) | 800 |  |
-| 38 | [Coins](https://codeforces.com/problemset/problem/1061/A) | 800 |  |
-| 39 | [Left-handers, Right-handers and Ambidexters](https://codeforces.com/problemset/problem/950/A) | 900 |  |
-| 40 | [Be Positive](https://codeforces.com/problemset/problem/1130/A) | 900 |  |
-| 41 | [Sasha and His Trip](https://codeforces.com/problemset/problem/1113/A) | 900 |  |
-| 42 | [Ropewalkers](https://codeforces.com/problemset/problem/1185/A) | 900 |  |
-| 43 | [Sonya and Hotels](https://codeforces.com/problemset/problem/1004/A) | 900 |  |
-| 44 | [Sushi for Two](https://codeforces.com/problemset/problem/1138/A) | 900 |  |
-| 45 | [Paint the Numbers](https://codeforces.com/problemset/problem/1209/A) | 900 |  |
-| 46 | [XORinacci](https://codeforces.com/problemset/problem/1208/A) | 900 |  |
-| 47 | [Snowball](https://codeforces.com/problemset/problem/1099/A) | 900 |  |
-| 48 | [Integer Points](https://codeforces.com/problemset/problem/1248/A) | 900 |  |
-| 49 | [Neverending competitions](https://codeforces.com/problemset/problem/765/A) | 900 |  |
-| 50 | [A Serial Killer](https://codeforces.com/problemset/problem/776/A) | 900 |  |
-| 51 | [Important Exam](https://codeforces.com/problemset/problem/1201/A) | 900 |  |
-| 52 | [The King's Race](https://codeforces.com/problemset/problem/1075/A) | 900 |  |
-| 53 | [Greed](https://codeforces.com/problemset/problem/892/A) | 900 |  |
-| 54 | [Buying A House](https://codeforces.com/problemset/problem/796/A) | 900 |  |
 | 55 | [Oath of the Night's Watch](https://codeforces.com/problemset/problem/768/A) | 1000 |  |
 | 56 | [A Blend of Springtime](https://codeforces.com/problemset/problem/989/A) | 1000 |  |
 | 57 | [Roman and Browser](https://codeforces.com/problemset/problem/1100/A) | 1000 |  |

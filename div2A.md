@@ -1,6 +1,5 @@
 | Index | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
-| 62 | [Circle Metro](https://codeforces.com/problemset/problem/1169/A) | 1000 |  |
 | 63 | [Eating Soup](https://codeforces.com/problemset/problem/1163/A) | 1000 |  |
 | 64 | [Palindrome Dance](https://codeforces.com/problemset/problem/1040/A) | 1000 |  |
 | 65 | [Trip For Meal](https://codeforces.com/problemset/problem/876/A) | 1000 |  |

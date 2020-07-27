@@ -1,9 +1,5 @@
 | Index | Problem | Difficulty | Solved |
 | --- | --- | --- | --- |
-| 58 | [Protect Sheep](https://codeforces.com/problemset/problem/948/A) | 1000 |  |
-| 59 | [Ehab Fails to Be Thanos](https://codeforces.com/problemset/problem/1174/A) | 1000 |  |
-| 60 | [Fake NP](https://codeforces.com/problemset/problem/805/A) | 1000 |  |
-| 61 | [Stages](https://codeforces.com/problemset/problem/1011/A) | 1000 |  |
 | 62 | [Circle Metro](https://codeforces.com/problemset/problem/1169/A) | 1000 |  |
 | 63 | [Eating Soup](https://codeforces.com/problemset/problem/1163/A) | 1000 |  |
 | 64 | [Palindrome Dance](https://codeforces.com/problemset/problem/1040/A) | 1000 |  |
